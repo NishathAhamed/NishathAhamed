@@ -15,7 +15,7 @@
 </p>
 
 <!-- ================== STATS ================== -->
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=21600&v=1"
     width="390"
@@ -24,7 +24,7 @@
     src="https://streak-stats.demolab.com?user=NishathAhamed&theme=dark&hide_border=true&cache_seconds=21600&v=1"
     width="430"
   />
-</p>
+</p> -->
 
 <!-- ================== LANGUAGES ================== -->
 <p align="center">
