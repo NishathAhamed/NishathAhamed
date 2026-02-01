@@ -14,17 +14,35 @@
   </p>
 </p>
 
+<!-- ================== STATS ================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="390" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NishathAhamed&theme=dark&hide_border=true" width="430" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=21600&v=1"
+    width="390"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=NishathAhamed&theme=dark&hide_border=true&cache_seconds=21600&v=1"
+    width="430"
+  />
 </p>
 
+<!-- ================== LANGUAGES ================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact" width="290" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishathAhamed&theme=dark" width="270" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishathAhamed&theme=dark" width="270" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&cache_seconds=21600&v=1"
+    width="290"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishathAhamed&theme=dark"
+    width="270"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishathAhamed&theme=dark"
+    width="270"
+  />
 </p>
 
+<!-- ================== SKILLS ================== -->
 <p align="center">
   <b>🤖 Agentic AI / GenAI</b><br/>
   Multi-step Agents • State Machines • Tool Calling • Memory • Orchestration (LangGraph)
