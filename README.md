@@ -27,7 +27,17 @@ I build **agentic AI systems** (LangGraph / LangChain + RAG) and
 
 <div align="center">
 
-<img src="./metrics.svg" alt="GitHub Metrics" />
+<!-- local-generated (reliable) -->
+<img
+  src="https://raw.githubusercontent.com/NishathAhamed/NishathAhamed/main/metrics.svg"
+  alt="GitHub Metrics"
+/>
+
+<!-- fallback (in case metrics.svg isn't generated yet) -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&show_icons=true&theme=dark&hide_border=true"
+  alt="GitHub Stats Fallback"
+/>
 
 </div>
 
@@ -37,7 +47,17 @@ I build **agentic AI systems** (LangGraph / LangChain + RAG) and
 
 <div align="center">
 
-<img src="./languages.svg" alt="Top Languages" />
+<!-- local-generated (reliable) -->
+<img
+  src="https://raw.githubusercontent.com/NishathAhamed/NishathAhamed/main/languages.svg"
+  alt="Top Languages"
+/>
+
+<!-- fallback (in case languages.svg isn't generated yet) -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&langs_count=8"
+  alt="Top Languages Fallback"
+/>
 
 </div>
 
