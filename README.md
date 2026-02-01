@@ -1,91 +1,56 @@
 <div align="center">
 
-## Hi, I’m @NishathAhamed 👋
+## Hi, I’m Nishath Ahamed 👋
 
-**Agentic AI • GenAI • RAG • Spring Boot • Fintech Engineering**
-
-<br/>
-
-![profile views](https://komarev.com/ghpvc/?username=NishathAhamed&label=profile%20views&color=000011&style=flat)
-
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-LangGraph-000011?style=flat)
-![GenAI](https://img.shields.io/badge/GenAI-RAG%20Systems-000011?style=flat)
-![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-LangChain-000011?style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservices-000011?style=flat&logo=springboot&logoColor=white)
-![Fintech](https://img.shields.io/badge/Fintech-Secure%20APIs-000011?style=flat&logo=stripe&logoColor=white)
-
-<br/>
-
-I build **agentic AI systems** (LangGraph / LangChain + RAG) and  
-**secure fintech backends** (Spring Boot microservices).
+**AI Engineer | Agentic AI • GenAI • RAG • Fintech Backend Engineering**
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+### 👨‍💻 About Me
+I build **agentic AI systems** using **LangGraph, LangChain, and RAG pipelines**, and I design **secure, production-ready backends** using **Spring Boot microservices**.
 
-<div align="center">
-
-<!-- local-generated (reliable) -->
-<img
-  src="https://raw.githubusercontent.com/NishathAhamed/NishathAhamed/main/metrics.svg"
-  alt="GitHub Metrics"
-/>
-
-<!-- fallback (in case metrics.svg isn't generated yet) -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&show_icons=true&theme=dark&hide_border=true"
-  alt="GitHub Stats Fallback"
-/>
-
-</div>
+My focus is on:
+- Context-aware LLM systems
+- Tool-using agents
+- Retrieval-augmented generation
+- Scalable, secure APIs
 
 ---
 
-## 🧠 Languages
-
-<div align="center">
-
-<!-- local-generated (reliable) -->
-<img
-  src="https://raw.githubusercontent.com/NishathAhamed/NishathAhamed/main/languages.svg"
-  alt="Top Languages"
-/>
-
-<!-- fallback (in case languages.svg isn't generated yet) -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&langs_count=8"
-  alt="Top Languages Fallback"
-/>
-
-</div>
+### 🧠 Core Skills
+- **Agentic AI**: LangGraph, LangChain, tool calling, multi-step reasoning  
+- **LLMs & GenAI**: RAG, embeddings, prompt engineering, evaluation  
+- **Backend**: Spring Boot, REST APIs, JWT, OTP flows  
+- **Infra**: Docker, Kubernetes (basics), Redis, Kafka  
+- **Languages**: Java, Python, TypeScript  
 
 ---
 
-## 🧩 Agentic AI Skill Graph
+### 🚀 Featured Projects
+#### 🔹 Agentic HR Assistant (LangGraph + RAG)
+AI agent that answers HR questions (KPIs, leave balance, contracts) using tool calling and retrieval.
+- Multi-step agent workflows
+- Vector DB–backed knowledge retrieval
+- Structured outputs
 
-```mermaid
-graph TD
-  A[Agentic AI Engineer] --> B[LangGraph Orchestration]
-  A --> C[LangChain LLM Apps]
-  A --> D[RAG Systems]
-  A --> E[Production Backend]
+👉 *Repo link here*
 
-  B --> B1[State & Memory]
-  B --> B2[Tool Calling]
-  B --> B3[Multi-step Workflows]
+#### 🔹 Fintech Notification & OTP Platform
+Production-style backend handling secure OTP, notifications, and user workflows.
+- Spring Boot microservices
+- Secure API design
+- Redis-backed rate limiting
 
-  C --> C1[Prompting]
-  C --> C2[Chains & Tools]
-  C --> C3[Structured Outputs]
+👉 *Repo link here*
 
-  D --> D1[Chunking Strategy]
-  D --> D2[Embeddings]
-  D --> D3[Vector DB Retrieval]
-  D --> D4[Evaluation]
+---
 
-  E --> E1[Spring Boot Microservices]
-  E --> E2[Auth • OTP • Secure APIs]
-  E --> E3[Redis • Kafka]
-  E --> E4[Docker • Kubernetes]
+### 📫 Connect
+- LinkedIn: *(add link)*
+- GitHub: https://github.com/NishathAhamed
+
+---
+
+⭐ *I’m actively seeking AI / ML Engineer roles and internships.*
