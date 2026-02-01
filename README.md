@@ -15,44 +15,43 @@
 </p>
 
 <p align="center">
-  I build <b>agentic AI systems</b> (LangGraph/LangChain + RAG) and <b>secure fintech backends</b> (Spring Boot microservices).
+  I build <b>agentic AI systems</b> (LangGraph/LangChain + RAG) and 
+  <b>secure fintech backends</b> (Spring Boot microservices).
 </p>
 
-<!-- ================== STATS (OPTIONAL + FETCHABLE) ================== -->
+---
+
+<!-- ================== GITHUB STATS ================== -->
 <details>
   <summary><b>📈 GitHub Stats</b></summary>
 
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=21600"
+      src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
       width="390"
     />
     <img
-      src="https://streak-stats.demolab.com?user=NishathAhamed&theme=dark&hide_border=true&cache_seconds=21600"
+      src="https://streak-stats.demolab.com?user=NishathAhamed&theme=dark&hide_border=true"
       width="430"
     />
   </p>
 </details>
 
-<!-- ================== LANGUAGES (OPTIONAL + FETCHABLE) ================== -->
+---
+
+<!-- ================== LANGUAGES ================== -->
 <details>
   <summary><b>🧠 Languages</b></summary>
 
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&cache_seconds=21600"
-      width="290"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishathAhamed&theme=dark"
-      width="270"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishathAhamed&theme=dark"
-      width="270"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&langs_count=8"
+      width="380"
     />
   </p>
 </details>
+
+---
 
 <!-- ================== AGENTIC AI SKILL GRAPH ================== -->
 ```mermaid
