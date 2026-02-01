@@ -28,10 +28,10 @@
 
 <!-- ================== LANGUAGES ================== -->
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&cache_seconds=21600&v=1"
     width="290"
-  />
+  /> -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishathAhamed&theme=dark"
     width="270"
