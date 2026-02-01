@@ -8,11 +8,19 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: github-metrics
+  cancel-in-progress: false
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate metrics
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -21,7 +29,7 @@ jobs:
           base: header, activity, repositories, community
           config_timezone: Asia/Colombo
 
-      - name: Generate languages
+      - name: Generate languages.svg
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -32,3 +40,16 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           config_timezone: Asia/Colombo
+
+      - name: Commit & push generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add metrics.svg languages.svg
+
+          # If nothing changed, don't fail
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "chore: update GitHub metrics"
+          git push
