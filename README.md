@@ -5,12 +5,12 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=NishathAhamed&label=profile%20views&color=000011&style=flat" />
-    <img src="https://img.shields.io/badge/Agentic%20AI-LangGraph-000011?style=flat" />
-    <img src="https://img.shields.io/badge/GenAI-RAG%20Systems-000011?style=flat" />
-    <img src="https://img.shields.io/badge/LLM%20Engineering-LangChain-000011?style=flat" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-Microservices-000011?style=flat&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Fintech-Secure%20APIs-000011?style=flat&logo=stripe&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=NishathAhamed&label=profile%20views&color=000011&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Agentic%20AI-LangGraph-000011?style=flat" alt="Agentic AI Badge" />
+    <img src="https://img.shields.io/badge/GenAI-RAG%20Systems-000011?style=flat" alt="GenAI Badge" />
+    <img src="https://img.shields.io/badge/LLM%20Engineering-LangChain-000011?style=flat" alt="LLM Engineering Badge" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-Microservices-000011?style=flat&logo=springboot&logoColor=white" alt="Spring Boot Badge" />
+    <img src="https://img.shields.io/badge/Fintech-Secure%20APIs-000011?style=flat&logo=stripe&logoColor=white" alt="Fintech Badge" />
   </p>
 </p>
 
@@ -27,12 +27,9 @@
 
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
-      width="390"
-    />
-    <img
-      src="https://streak-stats.demolab.com?user=NishathAhamed&theme=dark&hide_border=true"
-      width="430"
+      src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&show_icons=true&theme=dark&hide_border=true"
+      width="420"
+      alt="GitHub Stats"
     />
   </p>
 </details>
@@ -45,8 +42,9 @@
 
   <p align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&langs_count=8"
-      width="380"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact"
+      width="420"
+      alt="Top Languages"
     />
   </p>
 </details>
