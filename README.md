@@ -2,69 +2,48 @@
 
 ## Hi, I’m @NishathAhamed 👋
 
-Agentic AI • GenAI • RAG • Spring Boot • Fintech Engineering
-
-<img src="https://komarev.com/ghpvc/?username=NishathAhamed&label=profile%20views&color=000011&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/Agentic%20AI-LangGraph-000011?style=flat" alt="Agentic AI LangGraph" />
-<img src="https://img.shields.io/badge/GenAI-RAG%20Systems-000011?style=flat" alt="GenAI RAG Systems" />
-<img src="https://img.shields.io/badge/LLM%20Engineering-LangChain-000011?style=flat" alt="LLM Engineering LangChain" />
-<img src="https://img.shields.io/badge/Spring%20Boot-Microservices-000011?style=flat&logo=springboot&logoColor=white" alt="Spring Boot Microservices" />
-<img src="https://img.shields.io/badge/Fintech-Secure%20APIs-000011?style=flat&logo=stripe&logoColor=white" alt="Fintech Secure APIs" />
+**Agentic AI • GenAI • RAG • Spring Boot • Fintech Engineering**
 
 <br/>
+
+![profile views](https://komarev.com/ghpvc/?username=NishathAhamed&label=profile%20views&color=000011&style=flat)
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-LangGraph-000011?style=flat)
+![GenAI](https://img.shields.io/badge/GenAI-RAG%20Systems-000011?style=flat)
+![LLM Engineering](https://img.shields.io/badge/LLM%20Engineering-LangChain-000011?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservices-000011?style=flat&logo=springboot&logoColor=white)
+![Fintech](https://img.shields.io/badge/Fintech-Secure%20APIs-000011?style=flat&logo=stripe&logoColor=white)
+
 <br/>
 
-I build <b>agentic AI systems</b> (LangGraph/LangChain + RAG) and <b>secure fintech backends</b> (Spring Boot microservices).
+I build **agentic AI systems** (LangGraph / LangChain + RAG) and  
+**secure fintech backends** (Spring Boot microservices).
 
 </div>
 
 ---
 
-<details>
-<summary><b>📈 GitHub Stats</b></summary>
-
-<br/>
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=NishathAhamed&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-alt="GitHub Stats"
-width="420"
-/>
-
-<img
-src="https://streak-stats.demolab.com?user=NishathAhamed&theme=dark&hide_border=true"
-alt="GitHub Streak"
-width="420"
-/>
+<img src="./metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
-<br/>
-</details>
-
 ---
 
-<details>
-<summary><b>🧠 Languages</b></summary>
-
-<br/>
+## 🧠 Languages
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact&langs_count=8"
-alt="Top Languages"
-width="420"
-/>
+<img src="./languages.svg" alt="Top Languages" />
 
 </div>
 
-<br/>
-</details>
-
 ---
+
+## 🧩 Agentic AI Skill Graph
 
 ```mermaid
 graph TD
