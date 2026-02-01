@@ -1,14 +1,16 @@
 <p align="center">
   <h2 align="center">Hi, I’m @NishathAhamed 👋</h2>
   <p align="center">
-    AI • Spring Boot • Fintech Engineering
+    Agentic AI • GenAI • RAG • Spring Boot • Fintech Engineering
   </p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NishathAhamed&label=profile%20views&color=000011&style=flat" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-Backend-000011?style=flat&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI-LangChain%20%26%20Agents-000011?style=flat&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Fintech-APIs%20%26%20Payments-000011?style=flat&logo=stripe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Agentic%20AI-LangGraph-000011?style=flat" />
+    <img src="https://img.shields.io/badge/GenAI-RAG%20Systems-000011?style=flat" />
+    <img src="https://img.shields.io/badge/LLM%20Engineering-LangChain-000011?style=flat" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-Microservices-000011?style=flat&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fintech-Secure%20APIs-000011?style=flat&logo=stripe&logoColor=white" />
   </p>
 </p>
 
@@ -18,28 +20,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="290" />
-
-  <span>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishathAhamed&theme=dark" width="270" />
-  </span>
-
-  <span>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishathAhamed&theme=dark" width="270" />
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishathAhamed&theme=dark&hide_border=true&layout=compact" width="290" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NishathAhamed&theme=dark" width="270" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NishathAhamed&theme=dark" width="270" />
 </p>
 
 <p align="center">
-  <b>What I build</b><br/>
-  🤖 AI Agents & RAG (LangChain, LangGraph) • ☕ Spring Boot Microservices • 💳 Fintech Systems (Auth, OTP, Onboarding, Integrations)
+  <b>🤖 Agentic AI / GenAI</b><br/>
+  Multi-step Agents • State Machines • Tool Calling • Memory • Orchestration (LangGraph)
 </p>
 
 <p align="center">
-  <b>Core Backend Stack</b><br/>
-  Java • Spring Boot • Microservices • REST • PostgreSQL/MySQL • Docker • Kubernetes • Redis • Kafka • OAuth2/JWT
+  <b>📚 RAG & LLM Systems</b><br/>
+  Retrieval Pipelines • Chunking • Embeddings • Vector DBs • Prompt Design • Evaluation
 </p>
 
 <p align="center">
-  <b>AI Stack</b><br/>
-  Python • LangChain • LangGraph • RAG • Vector DBs • Prompt Engineering • Evaluation • OpenAI APIs
+  <b>💳 Fintech & Backend</b><br/>
+  Spring Boot • Microservices • Auth & OTP • Secure APIs • Redis • Kafka • Docker • Kubernetes
 </p>
