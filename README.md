@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi, I’m Nishath Ahamed 👋  
-**AI Engineer | Agentic AI • GenAI • RAG • Fintech Engineering**
+**AI & Java Backend Software Engineer | Agentic AI • GenAI • RAG • Fintech Engineering**
 
 <a href="https://www.linkedin.com/in/ahamed-nishath" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -19,12 +19,12 @@
 ---
 
 ### 👨‍💻 About Me
-I build **agentic AI systems** using **LangGraph, LangChain, and RAG pipelines**, and I work on **secure, production-style backend systems** using **Spring Boot**.
+I build **agentic AI systems** using **LangGraph, LangChain, and RAG pipelines**, and I work on **secure, production‑style backend systems** using **Spring Boot**.
 
 My interests include:
-- Tool-using AI agents and multi-step workflows  
-- Retrieval-augmented generation (RAG) systems  
-- API-first backend engineering  
+- Tool‑using AI agents and multi‑step workflows  
+- Retrieval‑augmented generation (RAG) systems  
+- API‑first backend engineering  
 
 ---
 
@@ -39,7 +39,7 @@ My interests include:
 
 ### 🚀 What You’ll Find on My GitHub
 - Agentic AI experiments and prototypes  
-- LLM-powered applications with real-world use cases  
+- LLM‑powered applications with real‑world use cases  
 - Backend engineering projects inspired by fintech systems  
 
 ---
@@ -48,4 +48,4 @@ My interests include:
 - 💼 LinkedIn: https://www.linkedin.com/in/ahamed-nishath  
 - 💻 GitHub: https://github.com/NishathAhamed  
 
-⭐ *Open to AI / ML Engineer roles and learning opportunities.*
+⭐ *Open to AI / ML Engineer and Java Backend roles and learning opportunities.*
